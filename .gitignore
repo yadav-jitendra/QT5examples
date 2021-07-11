@@ -1,4 +1,2 @@
-cmake-build-debug
-*.idea
-*.iml
-*.xml
+cmake-build-debug/
+.idea/
